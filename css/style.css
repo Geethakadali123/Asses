@@ -13,43 +13,39 @@ header {
 h1 {
 
     text-align: center;
-
     color: white;
-
     line-height: 100px;
-
     margin: 0;
-
   }
 ul li{
     list-style: none;
     display: inline;
     padding-right: 50px;
 }
-  article1{
+article1{
     margin-left: 0;
     width: 600px;
     height: 800px;
     background:whitesmoke;
     
 
-  }
-  article2{
+}
+article2{
     margin-left: 0;
     width: 600px;
     height: 800px;
     background:violet;
     
 
-  }
-  article3{
+}
+article3{
     margin-left: 0;
     width: 600px;
     height: 800px;
     background:peru;
   
 
-  }
+}
 section{
     display: flex;
 
